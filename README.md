@@ -1,3 +1,9 @@
+> **ASC Team fork.** This is a study copy of published ASC Student Supercomputer Challenge materials. It is not an official ASC Committee repository, and it is not a university endorsement.
+>
+> - Contest: ASC24 (2024). The upstream repository is named ASC24-LLM-inference-optimization and its README refers to the ASC24 Committees, but the README title and GitHub description still say ASC23. This fork keeps that wording unchanged.
+> - Upstream: https://github.com/ASC-Competition/ASC24-LLM-inference-optimization
+> - Year and original name are recorded in [SOURCE.md](SOURCE.md).
+
 # ASC23-LLM inference optimization
 
 The dataset and baseline code for ASC23 LLM inference optimization challenge. 
